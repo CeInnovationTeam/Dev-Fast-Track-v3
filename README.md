@@ -5,7 +5,7 @@ Bem-vindo ao repositório do Dev Fast Track! Este repositório contém informaç
 
 ## Workshop 1: Cloud Native
 ### Pré-requisitos
-- Provisionar a Stack disponibilizada aqui
+- Provisionar a Stack disponibilizada aqui: https://github.com/CeInnovationTeam/Dev-Fast-Track-v3/tree/main/PR%C3%89-REQ-LABS
   
 ### Objetivo
 O objetivo deste workshop é fornecer uma introdução abrangente aos conceitos e práticas do Cloud Native. Abordaremos pontos essenciais para colocar uma aplicação no ar e monitorá-la de maneira eficaz.
