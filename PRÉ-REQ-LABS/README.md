@@ -80,19 +80,16 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 ![](./images/IMG02.PNG)
 
-7. Antes de prosseguir, lembre-se de selecionar a versão "v1.25.4" na opção **Kubernetes Version**.
 
-![](./images/IMG_OKE.png)
+7. Clique em **Next**.
 
-8. Clique em **Next**.
-
-9. Criada nossa stack, clique em **Apply** e confirme a ação.
+8. Criada nossa stack, clique em **Apply** e confirme a ação.
 
 ![](./images/IMG07.PNG)
 
-10. O provisionamento dos recursos deverá durar em torno de 25 minutos.
+9. O provisionamento dos recursos deverá durar em torno de 25 minutos.
 
-11. Após finalizar o Apply com sucesso, podemos conferir o provisionamento dos nossos recursos!
+10. Após finalizar o Apply com sucesso, podemos conferir o provisionamento dos nossos recursos!
 
 ### ✔ Ambientes provisionados com sucesso!!! Você provisionou recursos usando Terraform na OCI! 🚀
 
