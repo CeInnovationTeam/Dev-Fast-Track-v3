@@ -18,7 +18,7 @@ Neste laboratório vamos criar:
 ![Alt text](./home.png "a title")
 
 * Selecione o compartment de sua escolha e siga os passos abaixo para criar um novo ambiente
-![Alt text](./3.png "a title")
+![Alt text](./compartment.png "a title")
 
 * Passe um Nome, uma Descrição e em SHAPE selecione Development (desenvolvimento), clique em CREATE
 ![Alt text](./4.png "a title")
