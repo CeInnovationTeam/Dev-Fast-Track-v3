@@ -14,10 +14,8 @@ Neste laboratório vamos criar:
 ### 1. Provisionar nosso ambiente do Oracle Digital Assistant
 
 * Abra sua console do OCI
-![Alt text](./1.png "a title")
-
 * No menu lateral esquerdo, utilize a barra de pesquisa e selecione a opcão de Digital Assistant
-![Alt text](./2.png "a title")
+![Alt text](./home.png "a title")
 
 * Selecione o compartment de sua escolha e siga os passos abaixo para criar um novo ambiente
 ![Alt text](./3.png "a title")
