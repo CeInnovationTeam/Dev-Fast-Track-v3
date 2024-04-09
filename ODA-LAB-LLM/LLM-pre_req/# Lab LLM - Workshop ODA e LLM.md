@@ -26,7 +26,7 @@ Neste laboratório vamos acessa a solução LLM Maritaca AI para pegar uma chave
 * Salve sua chave para utilizar no Lab de Oracle Digital Assistant
 
 ### Entre no LINK abaixo para seguir para a proxima etapa - Lab ODA
-* [LAB ODA - Workshop ODA e LLM](https://github.com/Gusttavosant/ODA-Lab-LLM/blob/main/HandsON_LAB_ODA_LLM.md)
+* [LAB ODA - Workshop ODA e LLM](https://github.com/CeInnovationTeam/Dev-Fast-Track-v3/blob/main/ODA-LAB-LLM/HandsON_LAB_ODA_LLM.md)
 
 ## Documentacões adicionais
 
