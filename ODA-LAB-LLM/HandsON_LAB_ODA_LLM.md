@@ -37,7 +37,7 @@ Neste laboratório vamos criar:
 * Clique no botão Add REST Service para criar uma nova conexão
 ![Alt text](./8.png "a title")
 
-* Em Create REST Service adicione um nome, passe o Endpoint (https://chat.maritaca.ai/inference) do Maritaca AI e em Method, selecione POST
+* Em Create REST Service adicione um nome, passe o Endpoint (https://chat.maritaca.ai/api/chat/inference) do Maritaca AI e em Method, selecione POST
   
 ![Alt text](./14.png "a title")
 
