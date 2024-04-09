@@ -47,6 +47,7 @@ Neste laboratório vamos criar:
 * Em Request, Content Type selecione application/json e em Body, adicione o texto abaixo: 
 
 {
+    "model": "sabia-2-medium",
     "messages": [
         {
             "role": "user",
